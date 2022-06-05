@@ -8,5 +8,6 @@ Features:
 - Automatic critical css
 - Dynamic styling
 - Easier deletion of css
-- Automatic vendor prefixing etc.,
+- Automatic vendor prefixing 
+- No class names bugs etc.,
 
